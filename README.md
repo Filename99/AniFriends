@@ -40,7 +40,7 @@ AniFriend\Frontend
 
 нужно зайти в консоль или терминал 
 
-и написать 
+и написать команду для локального сервера
 ```
 npm start
 ```
@@ -73,13 +73,21 @@ https://www.python.org/
 cd .\backend\
 ```
 
-и написать 
+и написать команду для запуска локального сервера
 
 `Windows`
 ```
 Py manage.py runserver
 ```
+
+
 `Linux`
 ```
 Python manage.py runserver
+```
+
+потом зайти на локальный сервер Django
+
+```
+http://localhost:8000
 ```
