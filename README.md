@@ -1,2 +1,2 @@
 # AniFriends
-#Команда Pulsar
+# Команда Pulsar
