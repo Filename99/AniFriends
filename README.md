@@ -9,7 +9,7 @@
 ## 🛠 Технологии stack 
 - HTML
 - CSS
-- JAVASCRIPT
+- JavaScript
 - React JS
 - Python
 - Django
